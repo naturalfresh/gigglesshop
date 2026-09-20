@@ -21,7 +21,7 @@ ADMIN_CHAT_ID = os.getenv('ADMIN_CHAT_ID', '').strip()
 PORT = int(os.getenv('PORT', '8080'))
 BASE_DIR = Path(__file__).resolve().parent
 WEB_DIR = BASE_DIR
-ORDERS_FILE = BASE_DIR
+ORDERS_FILE = BASE_DIR / 'ordes.jsonl'
 CATALOG_FILE = WEB_DIR
 
 if not BOT_TOKEN:

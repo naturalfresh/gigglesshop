@@ -4,9 +4,9 @@
     "name": "Giggles Трусики",
     "brand": "Giggles",
     "images": {
-      "M": "assets/1_giggles_panty_M.webp",
-      "L": "assets/1_giggles_panty_L.webp",
-      "XL": "assets/1_giggles_panty_XL.webp"
+      "M": "1_giggles_panty_M.webp",
+      "L": "1_giggles_panty_L.webp",
+      "XL": "1_giggles_panty_XL.webp"
     },
     "prices": {
       "M": 176280,
@@ -19,9 +19,9 @@
     "name": "Dr.Comfort Трусики",
     "brand": "Dr.Comfort",
     "images": {
-      "M": "assets/2_drcomfort_panty_M.webp",
-      "L": "assets/2_drcomfort_panty_L.webp",
-      "XL": "assets/2_drcomfort_panty_XL.webp"
+      "M": "2_drcomfort_panty_M.webp",
+      "L": "2_drcomfort_panty_L.webp",
+      "XL": "2_drcomfort_panty_XL.webp"
     },
     "prices": {
       "M": 170300,
@@ -34,9 +34,9 @@
     "name": "Giggles липучка",
     "brand": "Giggles",
     "images": {
-      "M": "assets/3_giggles_tape_M.webp",
-      "L": "assets/3_giggles_tape_L.webp",
-      "XL": "assets/3_giggles_tape_XL.webp"
+      "M": "3_giggles_tape_M.webp",
+      "L": "3_giggles_tape_L.webp",
+      "XL": "3_giggles_tape_XL.webp"
     },
     "prices": {
       "M": 170300,
@@ -49,9 +49,9 @@
     "name": "Dr.comfort липучка",
     "brand": "Dr.Comfort",
     "images": {
-      "M": "assets/4_drcomfort_tape_M.webp",
-      "L": "assets/4_drcomfort_tape_L.webp",
-      "XL": "assets/4_drcomfort_tape_XL.webp"
+      "M": "4_drcomfort_tape_M.webp",
+      "L": "4_drcomfort_tape_L.webp",
+      "XL": "4_drcomfort_tape_XL.webp"
     },
     "prices": {
       "M": 163930,
@@ -64,9 +64,9 @@
     "name": "Giggles mini",
     "brand": "Giggles",
     "images": {
-      "M": "assets/5_giggles_mini_M.webp",
-      "L": "assets/5_giggles_mini_L.webp",
-      "XL": "assets/5_giggles_mini_XL.webp"
+      "M": "5_giggles_mini_M.webp",
+      "L": "5_giggles_mini_L.webp",
+      "XL": "5_giggles_mini_XL.webp"
     },
     "prices": {
       "M": 58000,

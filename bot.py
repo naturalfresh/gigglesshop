@@ -20,9 +20,9 @@ WEBAPP_URL = (os.getenv('WEBAPP_URL') or os.getenv('RENDER_EXTERNAL_URL') or '')
 ADMIN_CHAT_ID = os.getenv('ADMIN_CHAT_ID', '').strip()
 PORT = int(os.getenv('PORT', '8080'))
 BASE_DIR = Path(__file__).resolve().parent
-WEB_DIR = BASE_DIR / 'webapp'
-ORDERS_FILE = BASE_DIR / 'orders.jsonl'
-CATALOG_FILE = WEB_DIR / 'products.json'
+WEB_DIR = BASE_DIR
+ORDERS_FILE = BASE_DIR
+CATALOG_FILE = WEB_DIR
 
 if not BOT_TOKEN:
     raise SystemExit('BOT_TOKEN is required')
